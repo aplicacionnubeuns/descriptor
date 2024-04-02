@@ -1,4 +1,4 @@
-runtime: php80
+runtime: php82
 api_version: 1
 handlers:
 - url: /
